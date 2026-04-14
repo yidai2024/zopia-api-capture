@@ -1,0 +1,590 @@
+[
+  {
+    "url": "https://zopia.ai/",
+    "method": "GET",
+    "domain": "zopia.ai",
+    "path": "/",
+    "query": "",
+    "timestamp": "2026-04-14T16:46:00.188483",
+    "headers": {
+      "accept-language": "zh-CN",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "text/html; charset=utf-8"
+  },
+  {
+    "url": "https://zopia.ai/api/auth/session",
+    "method": "GET",
+    "domain": "zopia.ai",
+    "path": "/api/auth/session",
+    "query": "",
+    "timestamp": "2026-04-14T16:46:36.322991",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://zopia.ai/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "content-type": "application/json",
+      "sec-ch-ua-mobile": "?0",
+      "accept-language": "zh-CN"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "resp_body_preview": "{}"
+  },
+  {
+    "url": "https://fonts.gstatic.com/l/font?kit=QGYyz_MVcBeNP4NjuGObqx1XmO1I4e6yC4I&skey=bafc0b239d492b2c&v=v15",
+    "method": "GET",
+    "domain": "fonts.gstatic.com",
+    "path": "/l/font",
+    "query": "kit=QGYyz_MVcBeNP4NjuGObqx1XmO1I4e6yC4I&skey=bafc0b239d492b2c&v=v15",
+    "timestamp": "2026-04-14T16:46:36.323601",
+    "headers": {
+      "origin": "https://zopia.ai",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://zopia.ai/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "accept-language": "zh-CN",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "text/html; charset=utf-8"
+  },
+  {
+    "url": "https://fonts.gstatic.com/l/font?kit=KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bWmQ&skey=a0a0114a1dcab3ac&v=v51",
+    "method": "GET",
+    "domain": "fonts.gstatic.com",
+    "path": "/l/font",
+    "query": "kit=KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bWmQ&skey=a0a0114a1dcab3ac&v=v51",
+    "timestamp": "2026-04-14T16:46:36.323853",
+    "headers": {
+      "origin": "https://zopia.ai",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://zopia.ai/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "accept-language": "zh-CN",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "text/html; charset=utf-8"
+  },
+  {
+    "url": "https://sr-client-cfg.amplitude.com/config/77fc9c424eb838f0e210c6e1b26a1247?config_group=browser",
+    "method": "GET",
+    "domain": "sr-client-cfg.amplitude.com",
+    "path": "/config/77fc9c424eb838f0e210c6e1b26a1247",
+    "query": "config_group=browser",
+    "timestamp": "2026-04-14T16:46:36.324301",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://zopia.ai/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "accept": "*/*",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "accept-language": "zh-CN",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "application/json",
+    "resp_body_preview": "{\"configs\":{\"diagnostics\":{\"browserSDK\":{\"sampleRate\":0.02}},\"sessionReplay\":{},\"analyticsSDK\":{}}}"
+  },
+  {
+    "url": "https://fonts.gstatic.com/l/font?kit=KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjammQ&skey=a0a0114a1dcab3ac&v=v51",
+    "method": "GET",
+    "domain": "fonts.gstatic.com",
+    "path": "/l/font",
+    "query": "kit=KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjammQ&skey=a0a0114a1dcab3ac&v=v51",
+    "timestamp": "2026-04-14T16:46:36.328162",
+    "headers": {
+      "origin": "https://zopia.ai",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://zopia.ai/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "accept-language": "zh-CN",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "text/html; charset=utf-8"
+  },
+  {
+    "url": "https://fonts.gstatic.com/l/font?kit=QGYyz_MVcBeNP4NjuGObqx1XmO1I4TC1C4I&skey=bafc0b239d492b2c&v=v15",
+    "method": "GET",
+    "domain": "fonts.gstatic.com",
+    "path": "/l/font",
+    "query": "kit=QGYyz_MVcBeNP4NjuGObqx1XmO1I4TC1C4I&skey=bafc0b239d492b2c&v=v15",
+    "timestamp": "2026-04-14T16:46:36.328422",
+    "headers": {
+      "origin": "https://zopia.ai",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://zopia.ai/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "accept-language": "zh-CN",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "text/html; charset=utf-8"
+  },
+  {
+    "url": "https://zopia.ai/_next/image?url=%2Fimages%2Fworkflow%2Frole-rose.webp&w=640&q=75",
+    "method": "GET",
+    "domain": "zopia.ai",
+    "path": "/_next/image",
+    "query": "url=%2Fimages%2Fworkflow%2Frole-rose.webp&w=640&q=75",
+    "timestamp": "2026-04-14T16:46:36.331920",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://zopia.ai/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "accept-language": "zh-CN",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "image/webp"
+  },
+  {
+    "url": "https://zopia.ai/_next/image?url=%2Fimages%2Fworkflow%2Fsb-thumb-1.webp&w=64&q=75",
+    "method": "GET",
+    "domain": "zopia.ai",
+    "path": "/_next/image",
+    "query": "url=%2Fimages%2Fworkflow%2Fsb-thumb-1.webp&w=64&q=75",
+    "timestamp": "2026-04-14T16:46:36.332164",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://zopia.ai/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "accept-language": "zh-CN",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "image/webp"
+  },
+  {
+    "url": "https://zopia.ai/_next/image?url=%2Fimages%2Fworkflow%2Fsb-thumb-2.webp&w=64&q=75",
+    "method": "GET",
+    "domain": "zopia.ai",
+    "path": "/_next/image",
+    "query": "url=%2Fimages%2Fworkflow%2Fsb-thumb-2.webp&w=64&q=75",
+    "timestamp": "2026-04-14T16:46:36.332372",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://zopia.ai/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "accept-language": "zh-CN",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "image/webp"
+  },
+  {
+    "url": "https://zopia.ai/_next/image?url=%2Fimages%2Fworkflow%2Ftimeline-preview.webp&w=256&q=75",
+    "method": "GET",
+    "domain": "zopia.ai",
+    "path": "/_next/image",
+    "query": "url=%2Fimages%2Fworkflow%2Ftimeline-preview.webp&w=256&q=75",
+    "timestamp": "2026-04-14T16:46:36.332606",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://zopia.ai/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "accept-language": "zh-CN",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "image/webp"
+  },
+  {
+    "url": "https://zopia.ai/_next/image?url=%2Fimages%2Fworkflow%2Ftimeline-thumb-2.webp&w=256&q=75",
+    "method": "GET",
+    "domain": "zopia.ai",
+    "path": "/_next/image",
+    "query": "url=%2Fimages%2Fworkflow%2Ftimeline-thumb-2.webp&w=256&q=75",
+    "timestamp": "2026-04-14T16:46:36.332902",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://zopia.ai/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "accept-language": "zh-CN",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "image/webp"
+  },
+  {
+    "url": "https://zopia.ai/_next/image?url=%2Fimages%2Fworkflow%2Ftimeline-thumb-3.webp&w=256&q=75",
+    "method": "GET",
+    "domain": "zopia.ai",
+    "path": "/_next/image",
+    "query": "url=%2Fimages%2Fworkflow%2Ftimeline-thumb-3.webp&w=256&q=75",
+    "timestamp": "2026-04-14T16:46:36.333128",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://zopia.ai/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "accept-language": "zh-CN",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "image/webp"
+  },
+  {
+    "url": "https://zopia.ai/_next/image?url=%2Fimages%2Fworkflow%2Ftimeline-thumb-4.webp&w=256&q=75",
+    "method": "GET",
+    "domain": "zopia.ai",
+    "path": "/_next/image",
+    "query": "url=%2Fimages%2Fworkflow%2Ftimeline-thumb-4.webp&w=256&q=75",
+    "timestamp": "2026-04-14T16:46:36.333370",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://zopia.ai/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "accept-language": "zh-CN",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "image/webp"
+  },
+  {
+    "url": "https://zopia.ai/_next/image?url=%2Fimages%2Fworkflow%2Ftimeline-preview.webp&w=640&q=75",
+    "method": "GET",
+    "domain": "zopia.ai",
+    "path": "/_next/image",
+    "query": "url=%2Fimages%2Fworkflow%2Ftimeline-preview.webp&w=640&q=75",
+    "timestamp": "2026-04-14T16:46:36.333635",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://zopia.ai/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "accept-language": "zh-CN",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "image/webp"
+  },
+  {
+    "url": "https://zopia.ai/_next/image?url=%2Fimages%2Fworkflow%2Ftimeline-preview.webp&w=96&q=75",
+    "method": "GET",
+    "domain": "zopia.ai",
+    "path": "/_next/image",
+    "query": "url=%2Fimages%2Fworkflow%2Ftimeline-preview.webp&w=96&q=75",
+    "timestamp": "2026-04-14T16:46:36.334028",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://zopia.ai/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "accept-language": "zh-CN",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "image/webp"
+  },
+  {
+    "url": "https://zopia.ai/_next/image?url=%2Fimages%2Fworkflow%2Ftimeline-thumb-2.webp&w=96&q=75",
+    "method": "GET",
+    "domain": "zopia.ai",
+    "path": "/_next/image",
+    "query": "url=%2Fimages%2Fworkflow%2Ftimeline-thumb-2.webp&w=96&q=75",
+    "timestamp": "2026-04-14T16:46:36.334271",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://zopia.ai/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "accept-language": "zh-CN",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "image/webp"
+  },
+  {
+    "url": "https://zopia.ai/_next/image?url=%2Fimages%2Fworkflow%2Ftimeline-thumb-3.webp&w=96&q=75",
+    "method": "GET",
+    "domain": "zopia.ai",
+    "path": "/_next/image",
+    "query": "url=%2Fimages%2Fworkflow%2Ftimeline-thumb-3.webp&w=96&q=75",
+    "timestamp": "2026-04-14T16:46:36.334532",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://zopia.ai/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "accept-language": "zh-CN",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "image/webp"
+  },
+  {
+    "url": "https://zopia.ai/_next/image?url=%2Fimages%2Fworkflow%2Ftimeline-thumb-4.webp&w=96&q=75",
+    "method": "GET",
+    "domain": "zopia.ai",
+    "path": "/_next/image",
+    "query": "url=%2Fimages%2Fworkflow%2Ftimeline-thumb-4.webp&w=96&q=75",
+    "timestamp": "2026-04-14T16:46:36.334810",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://zopia.ai/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "accept-language": "zh-CN",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "image/webp"
+  },
+  {
+    "url": "https://zopia.ai/_next/image?url=%2Fimages%2Fworkflow%2Fvideo-preview.webp&w=640&q=75",
+    "method": "GET",
+    "domain": "zopia.ai",
+    "path": "/_next/image",
+    "query": "url=%2Fimages%2Fworkflow%2Fvideo-preview.webp&w=640&q=75",
+    "timestamp": "2026-04-14T16:46:36.335077",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://zopia.ai/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "accept-language": "zh-CN",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "image/webp"
+  },
+  {
+    "url": "https://zopia.ai/_next/image?url=%2Fimages%2Fworkflow%2Fagent-screenshots-main.webp&w=828&q=75",
+    "method": "GET",
+    "domain": "zopia.ai",
+    "path": "/_next/image",
+    "query": "url=%2Fimages%2Fworkflow%2Fagent-screenshots-main.webp&w=828&q=75",
+    "timestamp": "2026-04-14T16:46:36.335335",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://zopia.ai/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "accept-language": "zh-CN",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "image/webp"
+  },
+  {
+    "url": "https://zopia.ai/_next/image?url=%2Fimages%2Fworkflow%2Fagent-screenshots-chat.webp&w=384&q=75",
+    "method": "GET",
+    "domain": "zopia.ai",
+    "path": "/_next/image",
+    "query": "url=%2Fimages%2Fworkflow%2Fagent-screenshots-chat.webp&w=384&q=75",
+    "timestamp": "2026-04-14T16:46:36.335617",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://zopia.ai/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "accept-language": "zh-CN",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "image/webp"
+  },
+  {
+    "url": "https://zopia.ai/_next/image?url=%2Fimages%2Fworkflow%2Fseedance-screenshots.webp&w=1080&q=75",
+    "method": "GET",
+    "domain": "zopia.ai",
+    "path": "/_next/image",
+    "query": "url=%2Fimages%2Fworkflow%2Fseedance-screenshots.webp&w=1080&q=75",
+    "timestamp": "2026-04-14T16:46:36.335917",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://zopia.ai/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "accept-language": "zh-CN",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "image/webp"
+  },
+  {
+    "url": "https://zopia.ai/_next/data/yUZK7HVKv5JQHDnxUUzms/en.json",
+    "method": "GET",
+    "domain": "zopia.ai",
+    "path": "/_next/data/yUZK7HVKv5JQHDnxUUzms/en.json",
+    "query": "",
+    "timestamp": "2026-04-14T16:46:36.341726",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://zopia.ai/",
+      "purpose": "prefetch",
+      "accept-language": "zh-CN",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "sec-ch-ua-mobile": "?0",
+      "x-nextjs-data": "1",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "application/json",
+    "resp_body_preview": "{\"pageProps\":{\"_nextI18Next\":{\"initialI18nStore\":{\"en\":{\"common\":{\"welcome\":\"Welcome\",\"hello\":\"Hello\",\"loading\":\"Loading...\",\"error\":\"Error\",\"success\":\"Success\",\"cancel\":\"Cancel\",\"confirm\":\"Confirm\",\"save\":\"Save\",\"delete\":\"Delete\",\"edit\":\"Edit\",\"add\":\"Add\",\"search\":\"Search\",\"settings\":\"Settings\",\"home\":\"Home\",\"dashboard\":\"Dashboard\",\"startForFree\":\"Start For Free\",\"back\":\"Back\",\"goBack\":\"Go Back\",\"next\":\"Next\",\"previous\":\"Previous\",\"submit\":\"Submit\",\"loadMore\":\"Load More\",\"close\":\"Close\",\"language\":\"Language\",\"content\":\"Content\",\"prompt\":\"Prompt\",\"prompts\":{\"title\":\"Prompts\"},\"script\":\"Screenwriter\",\"copied\":\"Copied\",\"copySuccess\":\"Copy Success\",\"copyFailed\":\"Copy Failed\",\"languages\":{\"en\":\"English\",\"zh-CN\":\"中文\",\"ja\":\"日本語\"},\"navigation\":{\"template\":\"Template\",\"generate\":\"Generate\",\"gallery\":\"Gallery\",\"pricing\":\"Pricing\",\"download\":\"Download\",\"github\":\"Github\",\"docs\":\"Docs\",\"inviteFriends\":\"Invite Friends\"},\"auth\":{\"login\":\"Login\",\"logout\":\"Logout\",\"profile\":\"Profile\",\"billing\":\"My Billing\",\"invite\":\"My Invite\",\"user\":\"User\",\"points\":\"Points\",\"dailyPointsGrant\":\"Earn 50 points daily by checking in\",\"accountManagement\":\"Account Management\",\"userGuide\":\"User Guide\",\"recharge\":\"Recharge\",\"signIn\":\"Check-in\",\"signedIn\":\"Checked In\",\"signingIn\":\"Checking In...\",\"signInSuccess\":\"Check-in Successful!\",\"signInSuccessDesc\":\"Earned 50 points, expires in 7 days\",\"signInFailed\":\"Check-in Failed\",\"signInFailedDesc\":\"Please try again later\",\"alreadySignedIn\":\"Already Checked In Today\",\"alreadySignedInDesc\":\"You have already checked in today. Come back tomorrow!\",\"networkError\":\"Network error, please try again later\"},\"account\":{\"manageAccount\":\"Manage Account\",\"pointsUsage\":\"Points Usage\",\"inviteFriends\":\"Invite Friends\",\"accountInformation\":\"Account Information\",\"currentSubscription\":\"Current Subscription\",\"availablePoints\":\"Available Points\",\"pointsUsageComingSoon\":\"Points usage details coming soon\",\"upgrade\":\"Upgrade\",\"upgradeToUnlock\":\"Upgrade to Unlock\",\"upgradeForNoWatermark"
+  },
+  {
+    "url": "https://sr-client-cfg.amplitude.com/config?api_key=77fc9c424eb838f0e210c6e1b26a1247&config_keys=sessionReplay",
+    "method": "GET",
+    "domain": "sr-client-cfg.amplitude.com",
+    "path": "/config",
+    "query": "api_key=77fc9c424eb838f0e210c6e1b26a1247&config_keys=sessionReplay",
+    "timestamp": "2026-04-14T16:46:36.346212",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://zopia.ai/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "accept": "*/*",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "accept-language": "zh-CN",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "application/json",
+    "resp_body_preview": "{\"configs\":{\"sessionReplay\":{}}}"
+  },
+  {
+    "url": "https://api2.amplitude.com/2/httpapi",
+    "method": "POST",
+    "domain": "api2.amplitude.com",
+    "path": "/2/httpapi",
+    "query": "",
+    "timestamp": "2026-04-14T16:46:36.359128",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://zopia.ai/",
+      "accept-language": "zh-CN",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "sec-ch-ua-mobile": "?0",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "accept": "*/*",
+      "content-type": "application/json"
+    },
+    "post_data": "{\"api_key\":\"77fc9c424eb838f0e210c6e1b26a1247\",\"events\":[{\"device_id\":\"c187f443-642a-4647-a97a-cc30a081932a\",\"session_id\":1776185189207,\"time\":1776185189223,\"platform\":\"Web\",\"language\":\"zh-CN\",\"ip\":\"$remote\",\"insert_id\":\"04e88f42-9958-4497-901c-53489a78aa90\",\"event_type\":\"$identify\",\"user_properties\":{\"$setOnce\":{\"initial_utm_campaign\":\"EMPTY\",\"initial_utm_content\":\"EMPTY\",\"initial_utm_id\":\"EMPTY\",\"initial_utm_medium\":\"EMPTY\",\"initial_utm_source\":\"EMPTY\",\"initial_utm_term\":\"EMPTY\",\"initial_referrer\":\"EMPTY\",\"initial_referring_domain\":\"EMPTY\",\"initial_dclid\":\"EMPTY\",\"initial_gbraid\":\"EMPTY\",\"initial_gclid\":\"EMPTY\",\"initial_fbclid\":\"EMPTY\",\"initial_ko_click_id\":\"EMPTY\",\"initial_li_fat_id\":\"EMPTY\",\"initial_msclkid\":\"EMPTY\",\"initial_rdt_cid\":\"EMPTY\",\"initial_ttclid\":\"EMPTY\",\"initial_twclid\":\"EMPTY\",\"initial_wbraid\":\"EMPTY\"},\"$unset\":{\"utm_campaign\":\"-\",\"utm_content\":\"-\",\"utm_id\":\"-\",\"utm_medium\":\"-\",\"utm_source\":\"-\",\"utm_term\":\"-\",\"referrer\":\"-\",\"referring_domain\":\"-\",\"dclid\":\"-\",\"gbraid\":\"-\",\"gclid\":\"-\",\"fbclid\":\"-\",\"ko_click_id\":\"-\",\"li_fat_id\":\"-\",\"msclkid\":\"-\",\"rdt_cid\":\"-\",\"ttclid\":\"-\",\"twclid\":\"-\",\"wbraid\":\"-\"}},\"event_id\":0,\"library\":\"amplitude-ts/2.26.2\",\"user_agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36\",\"event_properties\":{}},{\"device_id\":\"c187f443-642a-4647-a97a-cc30a081932a\",\"session_id\":1776185189207,\"time\":1776185189207,\"platform\":\"Web\",\"language\":\"zh-CN\",\"ip\":\"$remote\",\"insert_id\":\"6d1ca04e-676a-4908-aba6-b8e1509a13be\",\"event_type\":\"session_start\",\"event_id\":1,\"library\":\"amplitude-ts/2.26.2\",\"user_agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36\",\"event_properties\":{}},{\"device_id\":\"c187f443-642a-4647-a97a-cc30a081932a\",\"session_id\":1776185189207,\"time\":1776185189234,\"platform\":\"Web\",\"language\":\"zh-CN\",\"ip\":\"$remote\",\"insert_id\":\"e4a486b3-7c16-4bbe-b948-2acd584f6038\",\"event_type\":\"[Amplitude] Page Viewed\",\"event_properties\":{\"[Amplitude] Page Domain\":\"zopia.ai\",\"[Amplitude] Page Location\":\"https://zopia.ai/\",\"[Amplitude] Page Path\":\"/\",\"[Amplitude] Page Title\":\"Zopia - World's First Unlimited Free AI Film Agent\",\"[Amplitude] Page URL\":\"https://zopia.ai/\",\"[Amplitude] Page Counter\":1},\"event_id\":2,\"library\":\"amplitude-ts/2.26.2\",\"user_agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36\"}],\"options\":{},\"client_upload_time\":\"2026-04-14T16:46:30.228Z\"}",
+    "status": 200,
+    "content_type": "application/json",
+    "resp_body_preview": "{\"code\":200,\"server_upload_time\":1776185258370,\"payload_size_bytes\":869,\"events_ingested\":1}"
+  },
+  {
+    "url": "https://sr-client-cfg.amplitude.com/config?api_key=77fc9c424eb838f0e210c6e1b26a1247&config_keys=sessionReplay&session_id=1776185189207",
+    "method": "GET",
+    "domain": "sr-client-cfg.amplitude.com",
+    "path": "/config",
+    "query": "api_key=77fc9c424eb838f0e210c6e1b26a1247&config_keys=sessionReplay&session_id=1776185189207",
+    "timestamp": "2026-04-14T16:47:29.765812",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://zopia.ai/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "accept": "*/*",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "accept-language": "zh-CN",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "application/json",
+    "resp_body_preview": "{\"configs\":{\"sessionReplay\":{}}}"
+  },
+  {
+    "url": "https://zopia.ai/home",
+    "method": "GET",
+    "domain": "zopia.ai",
+    "path": "/home",
+    "query": "",
+    "timestamp": "2026-04-14T16:47:30.610179",
+    "headers": {
+      "accept-language": "zh-CN",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null,
+    "status": 307,
+    "content_type": ""
+  },
+  {
+    "url": "https://zopia.ai/auth/signin?callbackUrl=%2Fhome",
+    "method": "GET",
+    "domain": "zopia.ai",
+    "path": "/auth/signin",
+    "query": "callbackUrl=%2Fhome",
+    "timestamp": "2026-04-14T16:47:31.208148",
+    "headers": {
+      "accept-language": "zh-CN",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "text/html; charset=utf-8"
+  },
+  {
+    "url": "https://zopia.ai/_next/image?url=%2Fassets%2Fsignin_cover.webp&w=1920&q=75",
+    "method": "GET",
+    "domain": "zopia.ai",
+    "path": "/_next/image",
+    "query": "url=%2Fassets%2Fsignin_cover.webp&w=1920&q=75",
+    "timestamp": "2026-04-14T16:47:32.432430",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://zopia.ai/auth/signin?callbackUrl=%2Fhome",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not:A-Brand\";v=\"99\", \"HeadlessChrome\";v=\"145\", \"Chromium\";v=\"145\"",
+      "accept-language": "zh-CN",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "status": 200,
+    "content_type": "image/webp"
+  }
+]
